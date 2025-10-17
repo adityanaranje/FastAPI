@@ -1,0 +1,11 @@
+asgiref
+click
+colorama
+fastapi
+h11
+importlib-metadata
+pydantic
+starlette
+typing-extensions
+uvicorn
+zipp
