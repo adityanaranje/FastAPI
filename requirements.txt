@@ -9,3 +9,10 @@ starlette
 typing-extensions
 uvicorn
 zipp
+ipykernel
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+scikit-learn
